@@ -1,0 +1,46 @@
+.row {background-color:lavender}
+ 
+.col1{
+    
+    height:1050px;
+    text-align:center;
+    background-color:#040B34;
+}
+ 
+.col2{
+    height:800px;
+    text-align:center;
+}
+ 
+.col3{
+    height: 800px;
+    text-align:center;
+}
+.col4{
+    height: 360px;
+    text-align:center;
+     background-color:#040B34;
+
+
+}
+.col5{
+    height: 360px;
+    text-align:center;
+}
+ 
+.col6{
+    min-height:100px;
+    text-align:center;
+     background-color:#040B34;
+}
+
+ 
+
+
+ 
+.colinside{
+   
+    min-height:100px;
+    text-align:center;
+    background-color:orange;
+}
