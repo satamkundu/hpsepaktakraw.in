@@ -1,12 +1,10 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>SEPAK TAKRAW FEDERATION OF INDIA</title>
+	<title>Himachal Amateur Sepak Takraw Sports Association (Regd.)</title>
 	<meta charset="UTF-8">
-	<meta name="description" content="Unica University Template">
-	<meta name="keywords" content="event, unica, creative, html">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Favicon -->   
 	<link href="img/favicon.ico" rel="shortcut icon"/>
@@ -28,36 +26,28 @@
 	<link rel="stylesheet" href="css/style.css"/>
 	
 	<link rel="stylesheet" href="css/stylesheet.css"/>
-
-
-
 </head>
 <body>
 	<header class="header-section">
 		<div class="container">
-	<div class="row">
-	<div class="col-sm-2">
-		<a href=""><img src="img/logo.png" alt="" height="120px;" width="140px;" style="margin-top: 15px;"></a>
-		
-	</div>
-		<div class="col-sm-10 hidden-xs" style="margin-top: 20px;">
-			<div class="hf-item">
-		<h2 class="" style="font-size: 50px; color: #FF8C00">SEPAKTAKRAW FEDERATION OF INDIA</h2></div>
-		<h5 style="text-align: center; color: #E9967A; font-size: 22px;">Recognised by Ministry of Sports & Skill Empowerment, Govt. of India</h5>
-		<p style="font-size: 19px;">Affiliated with International SepakTakrwa Federation(ISTAF) & Asian SepakTakraw Federation (ASTAF)</p>
-		
-	</div>
-</div>	
-<div class="nav-switch">
+			<div class="row">
+				<div class="col-sm-2 d-none d-xl-block d-md-block">
+					<a href=""><img src="img/logo.png" alt="" height="120px;" width="140px;"></a>		
+				</div>
+				<div class="col-sm-8" style="margin-top: 20px;margin-bottom:20px">
+					<div class="hf-item text-center">
+						<h2 class="header-text">Himachal Amateur Sepak Takraw Sports Association (Regd.)</h2>
+					</div>		
+				</div>
+				<div class="col-sm-2  d-none d-xl-block d-md-block">
+					<a href=""><img src="img/logo-2.png" alt="" height="120px;" width="140px;"></a>		
+				</div>
+			</div>	
+			<div class="nav-switch">
 				<i class="fa fa-bars"></i>
 			</div>
-</div>
-		
+		</div>		
 	</header>
-
-
-
-	
 	<!-- header section end-->
 	<!-- Header section  -->
 	<nav class="nav-section">
@@ -68,10 +58,24 @@
 				<li><a href="events.php">Events</a></li>
 				<li><a href="anti-doping.php">Anti Doping</a></li>
 				<li><a href="rules-regulations.php">RULES & REGULATIONS</a></li>
-				<li><a href="stfi-history.php">STFI History </a></li>
-				<li><a href="myas-compliance.php">MYAS Compliance</a></li>
-				<li><a href="contacts.php">Contacts</a></li> 
+				<li><a href="history.php">HISTORY </a></li>
+				<li><a href="about-us.php">ABOUT US</a></li>
+				<li><a href="#">DIST UNITS/CLUBS</a></li>
+				<li><a href="#">ORGANISATION</a></li>
+				<li><a href="contacts.php">CONTACTS</a></li> 
 			</ul>
 		</div>
 	</nav>
 	<!-- Header section end -->
+
+	<style>
+	.header-text {
+		font-size:2.3rem;
+		color: #FF8C00;
+	}
+	@media screen and (max-width: 600px) {
+	.header-text {
+			font-size:1.1rem;
+		}
+	}
+	</style>

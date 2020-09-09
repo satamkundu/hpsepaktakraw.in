@@ -2,13 +2,14 @@
  
 .col1{
     
-    height:1050px;
+    /* height:1050px; */
+    height: 100%;
     text-align:center;
     background-color:#040B34;
 }
  
 .col2{
-    height:800px;
+    /* height:800px; */
     text-align:center;
 }
  
@@ -17,14 +18,14 @@
     text-align:center;
 }
 .col4{
-    height: 360px;
+    height: 168px;
     text-align:center;
      background-color:#040B34;
 
 
 }
 .col5{
-    height: 360px;
+    height: 168px;
     text-align:center;
 }
  
