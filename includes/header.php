@@ -60,8 +60,8 @@
 				<li><a href="rules-regulations.php">RULES & REGULATIONS</a></li>
 				<li><a href="history.php">HISTORY </a></li>
 				<li><a href="about-us.php">ABOUT US</a></li>
-				<li><a href="#">DIST UNITS/CLUBS</a></li>
-				<li><a href="#">ORGANISATION</a></li>
+				<li><a href="dist.php">DIST UNITS/CLUBS</a></li>
+				<li><a href="organization.php">ORGANISATION</a></li>
 				<li><a href="contacts.php">CONTACTS</a></li> 
 			</ul>
 		</div>
